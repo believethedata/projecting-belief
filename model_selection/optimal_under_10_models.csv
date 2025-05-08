@@ -1,0 +1,5 @@
+approach,sex_of_child,age_of_child,sex_of_parent,age_of_parent,estimator,rmse
+via_preds,female,0-4,female,40-44,ExponentialEstimator,0.017441513638347728
+via_preds,female,5-9,female,40-44,IndividualBasicTransitionMatrixEstimator,0.013470519274914595
+via_preds,male,0-4,female,40-44,ExponentialEstimator,0.017064733710760158
+via_preds,male,5-9,female,40-44,IndividualBasicTransitionMatrixEstimator,0.014450841659467886

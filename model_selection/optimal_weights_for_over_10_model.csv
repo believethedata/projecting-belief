@@ -1,0 +1,7 @@
+Estimator,Model Weight
+LinearTrendEstimator,0.03339980519952716
+ExponentialEstimator,0.10720758438257771
+BasicTransitionMatrixEstimator,0.0
+IndividualLinearEstimator,0.2909228855216313
+IndividualExponentialEstimator,0.35520949715322425
+IndividualBasicTransitionMatrixEstimator,0.21326022774303963
