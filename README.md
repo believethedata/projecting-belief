@@ -11,4 +11,6 @@ To replicate the results, run the notebooks in the following order:
 
 Further details on each step can be found in `README.md` files in the respective folders.
 
+NB: If you just want to access the granular projections, they can be found in `projections/combined`.
+
 Please feel free to email with any questions at jack@believethedata.org.
